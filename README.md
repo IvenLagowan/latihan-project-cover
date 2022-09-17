@@ -1,0 +1,2 @@
+# latihan-project-cover
+cover
